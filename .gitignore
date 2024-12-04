@@ -75,7 +75,7 @@ typings/
 .serverless/
 node_modules
 
-app.js
+
 # FuseBox cache
 .fusebox/
 
